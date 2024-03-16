@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+
+/* Element Selector */
+p{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* id selector */
+#pera1{
+    color: rgb(30, 152, 218);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* class selector */
+.pera2{
+    color: chocolate;
+}
+
+/*  Pseudo css */
+a:hover{
+    color: red;
+    font-size: large;
+}
