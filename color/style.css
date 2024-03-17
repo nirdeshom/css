@@ -1,0 +1,17 @@
+/* Named Colors: You can use named colors, which are predefined color keywords. */
+
+h1 {
+    color: red;
+}
+
+p {
+    color: green;
+    /* color: magenta; */
+}
+
+/* RGB Colors: RGB (Red, Green, Blue) values allow you to define colors by specifying the amount of red, green, and blue in the color. */
+#pera {
+    color: rgb(0, 0, 255);
+}
+
+
