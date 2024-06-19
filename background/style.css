@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+    height: 100vh;
+    /* background-color: rgb(252, 221, 130); */
+    /* background-image: url('../images/photo3.jpg'); */
+    background-image: url('https://media.istockphoto.com/id/1225443926/photo/fit-for-your-lifestyle-full-length-shot-of-young-female-blogger-recording-a-tutorial-video.jpg?s=2048x2048&w=is&k=20&c=ykpLcedu1PVl6fLSWpbrT2djgG5CfOgex0RmtNFQKZ4=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size: contain; */
+    /* background-size: 100% 100%; */
+    /* background-position: left bottom; */
+}
