@@ -1,0 +1,30 @@
+/* color name  */
+h1 {
+    color: yellow
+}
+
+/* color RGB Value  */
+p {
+    color: rgb(0, 0, 255);
+}
+
+/* RGBA Color: RGBA is similar to RGB but include an Alpha Channel for Opacity Control */
+.para1 {
+    color: rgba(255, 69, 0, 0.5);
+}
+
+/* Hexadecimal Color */
+#para2 {
+    color: #00ff00;
+    
+}
+
+/* HSL Color: HSL(Hue, Saturation, Lightness) */
+.heding2 {
+    color: hsl(255, 10%, 45%);
+}
+
+/* HSLA color: hsla(Hue, Saturation, Lightness, Alpha) */
+.para3 {
+    color: hsla(157, 95%, 53%, 0.9);
+}
