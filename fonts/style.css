@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&display=swap");
+
+body {
+    background-color: rgb(255, 255, 174);
+  /* font-size: 20px; */
+  display: grid;
+  place-items: center;
+  font-family: 'Urbanist',sans-serif;
+  
+}
+
+.section-2 {
+    width: 60%;
+    /* background-color: rgb(255, 255, 134); */
+
+}
+
+h1 {
+    font-size: 52px;
+    font-weight: 900;
+    font-variant: small-caps;
+    font-style: italic;
+}
+p {
+    font-size: 20px;
+    font-weight: 400;
+    font-variant: inherit;
+}
