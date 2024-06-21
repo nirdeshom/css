@@ -1,0 +1,24 @@
+body{
+    background-color: #2f2f2f;
+    /* background-image: linear-gradient(to right, #f662b6, #e969c4, #da70d0, #c977d9, #b67ee1, #b383df, #b187dd, #af8bdb, #b990d3, #c095cb, #c49cc5, #c6a3c0); */
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+}
+.section-main {
+    width: 50%;
+
+    /* padding: 20px; */
+
+    padding: 10px 20px 10px 20px;
+    
+    /* padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px; */
+
+    border: 10px solid #ff0593;
+    /* background-color: #ff056d; */
+}
