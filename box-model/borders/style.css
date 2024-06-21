@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  /* background-color: antiquewhite; */
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* border  */
+.section-border {
+  width: 1000px;
+  border: 10px ridge rgb(4, 64, 206);
+  background-color: #becff8;
+  /* color: #fff; */
+
+  /* border-width: 10px;
+  border-style: groove;
+  border-color: blue; */
+
+  /* we cane write then individually too  */
+  /* border-top: 10px ridge chocolate;
+  border-right: 10px dashed green;
+  border-bottom: 10px dotted yellow;
+  border-left: 10px solid red; */
+}
+p {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    line-height: 1.5;
+
+}
+
+p::first-letter {
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+div {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background-color: aqua;
+}
