@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lists in CSS</title>
+    <style>
+
+        .lists {
+            width: 500px;
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        }
+
+        ul {
+            list-style-type: decimal;
+            list-style-position: inside;
+            /* list-style-image: url("/images/mario-run.gif"); */
+        }
+
+        li {
+            font-size: 32px;
+            font-weight: 400;
+            text-transform: capitalize;
+            margin-bottom: 16px;
+            border: 2px solid #ed5656;
+        }
+    </style>
+</head>
+
+<body>
+    <section>
+        <div class="lists">
+            <ul>
+                <li>LIKE</li>
+                <li>
+                    SHARE
+                    <ul>
+                        <li>SHARE</li>
+                        <li>SUBSCRIBE</li>
+                    </ul>
+                </li>
+                <li>SUBSCRIBE</li>
+            </ul>
+        </div>
+    </section>
+</body>
+
+</html>
